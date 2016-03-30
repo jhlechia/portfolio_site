@@ -22,9 +22,23 @@
   padding-left: 50px;
   padding-right: 50px;
   color: black;
-  transition: all 1s ease-in-out;
+  transition: all .5s ease-in-out;
 }
 
 .link:hover {
-  transform:scale(1.2);
+  transform: scale(1.2);
+}
+
+.skills-section {
+  background-color: white;
+  padding-right: 50px;
+  padding-left: 80px;
+  padding-bottom: 20px;
+}
+
+.projects-section {
+  background-color:#00cc99;
+  padding-bottom:20px;
+  padding-left: 50px;
+  padding-right: 50px; 
 }
