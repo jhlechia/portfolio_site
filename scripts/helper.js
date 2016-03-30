@@ -15,19 +15,19 @@ var projects_array = [
     name: 'Great Escape REPL game',
     img: 'a' ,
     language: 'Ruby',
-    info: 'A read–eval–print loop (REPL), also known as an interactive toplevel or language shell, is a simple, interactive computer programming environment that takes single user inputs (i.e. single expressions), evaluates them, and returns the result to the user; a program written in a REPL environment is executed piecewise.',
+    info: 'A read–eval–print loop (REPL), also known as an interactive toplevel or language shell, is a simple, interactive computer programming environment that takes single user inputs (i.e. single expressions), evaluates them, and returns the result to the user; a program written in a REPL environment is executed piecewise.'
   },
   {
-    name: 'BrandPix',
+    name:'BrandPix',
     img:'a',
-    language: 'Ruby, Ruby on Rails, Twitter Bootstrap, HTML, CSS,'
-    info: 'A read–eval–print loop (REPL), also known as an interactive toplevel or language shell, is a simple, interactive computer programming environment that takes single user inputs (i.e. single expressions), evaluates them, and returns the result to the user; a program written in a REPL environment is executed piecewise.',
+    language: 'Ruby, RubyonRails, HTML, CSS,',
+    info: 'A read–eval–print loop (REPL), also known as an interactive toplevel or language shell, is a simple, interactive computer programming environment that takes single user inputs (i.e. single expressions), evaluates them, and returns the result to the user; a program written in a REPL environment is executed piecewise.'
   },
   {
     name:'AmpedUp',
     img:'a',
     language: 'Ruby, RubyonRails, HTML, CSS, Javascript, JQuery, APIs, Twitter Bootstrap',
-    info: 'A read–eval–print loop (REPL), also known as an interactive toplevel or language shell, is a simple, interactive computer programming environment that takes single user inputs (i.e. single expressions), evaluates them, and returns the result to the user; a program written in a REPL environment is executed piecewise.',
+    info: 'A read–eval–print loop (REPL), also known as an interactive toplevel or language shell, is a simple, interactive computer programming environment that takes single user inputs (i.e. single expressions), evaluates them, and returns the result to the user; a program written in a REPL environment is executed piecewise.'
   }
 ];
 
