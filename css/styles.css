@@ -11,3 +11,20 @@
 .designation {
   color: #181818;
 }
+
+.footer-section {
+  background-color: #00cc99;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.link {
+  padding-left: 50px;
+  padding-right: 50px;
+  color: black;
+  transition: all 1s ease-in-out;
+}
+
+.link:hover {
+  transform:scale(1.2);
+}
