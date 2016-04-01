@@ -4,7 +4,7 @@
   padding-left: 50px;
 }
 
-.name {
+.name, .header {
   color: white;
 }
 
@@ -48,4 +48,10 @@
 
 .picture-section {
   background-size:100% auto;
+}
+
+.bio-section {
+  background-color: #00cc99;
+  padding-top: 10px;
+  padding-left: 50px;
 }
