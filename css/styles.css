@@ -16,6 +16,7 @@
   background-color: #00cc99;
   padding-right: 50px;
   padding-left: 50px;
+  padding-top: 20px;
 }
 
 .link {
@@ -29,7 +30,7 @@
   transform: scale(1.2);
 }
 
-.skills-section {
+.skills-section, .contact-section {
   background-color: white;
   padding-right: 50px;
   padding-left: 80px;
