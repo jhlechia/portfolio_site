@@ -13,19 +13,19 @@ var projects = '<li><h3>%data%</h3><div class="row"><div class="col-md-3"><img s
 var projects_array = [
   {
     name: 'Great Escape REPL game',
-    img: 'a' ,
+    img: 'repl' ,
     language: 'Ruby',
     info: 'A read–eval–print loop (REPL), also known as an interactive toplevel or language shell, is a simple, interactive computer programming environment that takes single user inputs (i.e. single expressions), evaluates them, and returns the result to the user; a program written in a REPL environment is executed piecewise.'
   },
   {
     name:'BrandPix',
-    img:'a',
+    img:'brand',
     language: 'Ruby, RubyonRails, HTML, CSS,',
     info: 'A read–eval–print loop (REPL), also known as an interactive toplevel or language shell, is a simple, interactive computer programming environment that takes single user inputs (i.e. single expressions), evaluates them, and returns the result to the user; a program written in a REPL environment is executed piecewise.'
   },
   {
     name:'AmpedUp',
-    img:'a',
+    img:'amped',
     language: 'Ruby, RubyonRails, HTML, CSS, Javascript, JQuery, APIs, Twitter Bootstrap',
     info: 'A read–eval–print loop (REPL), also known as an interactive toplevel or language shell, is a simple, interactive computer programming environment that takes single user inputs (i.e. single expressions), evaluates them, and returns the result to the user; a program written in a REPL environment is executed piecewise.'
   }
