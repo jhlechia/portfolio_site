@@ -22,7 +22,7 @@
 .link {
   padding-left: 50px;
   padding-right: 50px;
-  color: black;
+  color: white;
   transition: all .5s ease-in-out;
 }
 
@@ -63,4 +63,8 @@
 
 .social-links {
   margin-bottom: 20px;
+}
+
+.footer-details {
+  color: white;
 }
