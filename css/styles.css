@@ -28,8 +28,9 @@
 
 .link:hover {
   color: #0099ff;
-  transform: scale(1.1);
-  /*background-color: transparent;*/
+  -ms-transform: scale(1,1); /* IE 9 */
+  -webkit-transform: scale(1,1); /* Safari */
+  transform: scale(1,1); /* Standard syntax */
 }
 
 .skills-section, .contact-section {
