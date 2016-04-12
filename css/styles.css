@@ -28,9 +28,6 @@
 
 .link:hover {
   color: #0099ff;
-  -ms-transform: scale(1,1); /* IE 9 */
-  -webkit-transform: scale(1,1); /* Safari */
-  transform: scale(1,1); /* Standard syntax */
 }
 
 .skills-section, .contact-section {
@@ -70,4 +67,10 @@
 
 .footer-details {
   color: white;
+}
+
+li h3 .row .col-md-3 a {
+  -ms-transform: scale(1,1); /* IE 9 */
+   -webkit-transform: scale(1,1); /* Safari */
+   transform: scale(1,1); /* Standard syntax */
 }
