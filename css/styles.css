@@ -25,7 +25,7 @@
   color: white;
 }
 
-link:hover {
+a:hover {
   color: blue;
   background-color: transparent;
   text-decoration: underline;;
