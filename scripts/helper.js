@@ -16,19 +16,21 @@ var projects_array = [
     img: 'repl' ,
     language: 'Ruby',
     info: 'This was one of my favorite projects, even though on a user level it looks pretty basic. Great Escape is a REPL game that can be played on the command line.  It takes single user inputs, evaluates them, and returns results based on that input. The excitement in creating this project, is that the results are literally endless. You have full creative control over what your game is about and where it will take a player, which is one of the major reasons it was so much fun to make.  Additional features would be to add some graphics to go along with the game.',
-    a: "https://github.com"
+    a: 'https://github.com/jhlechia/Great-Escape-REPL-game'
   },
   {
     name:'BrandPix',
     img:'brand',
     language: 'Ruby, RubyonRails, HTML, CSS',
-    info: 'The idea behind BrandPix stemmed from a need for companies to get user input on product/brand launches prior to spending billions of dollars on failed ideas.  It was my first opportunity to utilize the Ruby on Rails framework and was done so in a group setting.  I think of it as my Rails guinea pig, being that is the first project I created after very recently learning Rails.  Additional features would be improvement to the GUI.'
+    info: 'The idea behind BrandPix stemmed from a need for companies to get user input on product/brand launches prior to spending billions of dollars on failed ideas.  It was my first opportunity to utilize the Ruby on Rails framework and was done so in a group setting.  I think of it as my Rails guinea pig, being that is the first project I created after very recently learning Rails.  Additional features would be improvement to the GUI.',
+    a: 'https://github.com/jhlechia/brand_pix'
   },
   {
     name:'Amped Up',
     img:'amped',
     language: 'Ruby, RubyonRails, HTML, CSS, Javascript, JQuery, APIs, Twitter Bootstrap',
-    info: 'Amped Up was born out of a love for music and concerts and recognition of a need for social activities centered around that love. Amped Up allows users going to the same concert to create pre and post concert events, as well as carpools to the specific concert.  It was created using the Rails framework, in addition to Twitter Bootstrap for the GUI. We also used the 5gig and Google Maps APIs.'
+    info: 'Amped Up was born out of a love for music and concerts and recognition of a need for social activities centered around that love. Amped Up allows users going to the same concert to create pre and post concert events, as well as carpools to the specific concert.  It was created using the Rails framework, in addition to Twitter Bootstrap for the GUI. We also used the 5gig and Google Maps APIs.',
+    a: 'https://github.com/jhlechia/ConcertApp'
   }
 ];
 
