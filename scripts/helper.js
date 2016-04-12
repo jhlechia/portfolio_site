@@ -9,7 +9,7 @@ for(var i=0; i < skills_array.length; i += 1) {
   $('.skills-section-images').append(skills_new);
 }
 
-var projects = '<li><h3>%data%</h3><div class="row"><div class="col-md-3"><a href=%data4% target="_new" class="projects"><img src="./img/%data1%.gif" alt="project-images" class="img-responsive"></a></div><div class="col-md-9"><h3>Language(s): %data2%</h3><h5>%data3%</h5></div></div></li><br><hr>';
+var projects = '<li><h3>%data%</h3><div class="row"><div class="col-md-3"><a href=%data4% target="_new"><img src="./img/%data1%.gif" alt="project-images" class="img-responsive"></a></div><div class="col-md-9"><h3>Language(s): %data2%</h3><h5>%data3%</h5></div></div></li><br><hr>';
 var projects_array = [
   {
     name: 'Great Escape',
