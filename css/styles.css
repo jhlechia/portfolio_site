@@ -23,12 +23,13 @@
   padding-left: 50px;
   padding-right: 50px;
   color: white;
+  transition: all .2s ease-in-out;
 }
 
 .link:hover {
-  color: blue;
-  background-color: transparent;
-  text-decoration: underline;;
+  color: #0099ff;
+  transform: scale(1.1);
+  /*background-color: transparent;*/
 }
 
 .skills-section, .contact-section {
