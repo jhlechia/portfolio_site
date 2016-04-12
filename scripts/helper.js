@@ -16,7 +16,7 @@ var projects_array = [
     img: 'repl' ,
     language: 'Ruby',
     info: 'This was one of my favorite projects, even though on a user level it looks pretty basic. Great Escape is a REPL game that can be played on the command line.  It takes single user inputs, evaluates them, and returns results based on that input. The excitement in creating this project, is that the results are literally endless. You have full creative control over what your game is about and where it will take a player, which is one of the major reasons it was so much fun to make.  Additional features would be to add some graphics to go along with the game.',
-    a: "https://github.com"
+    a href: "https://github.com"
   },
   {
     name:'BrandPix',
