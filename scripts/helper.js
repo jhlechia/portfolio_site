@@ -16,7 +16,7 @@ var projects_array = [
     img: 'repl' ,
     language: 'Ruby',
     info: 'This was one of my favorite projects, even though on a user level it looks pretty basic. Great Escape is a REPL game that can be played on the command line.  It takes single user inputs, evaluates them, and returns results based on that input. The excitement in creating this project, is that the results are literally endless. You have full creative control over what your game is about and where it will take a player, which is one of the major reasons it was so much fun to make.  Additional features would be to add some graphics to go along with the game.',
-    a href: "https://github.com"
+    a: "https://github.com"
   },
   {
     name:'BrandPix',
@@ -39,5 +39,6 @@ for(var i=0; i < projects_array.length; i+= 1){
   projects_new = projects_new.replace('%data1%', projects_array[i]['img']);
   projects_new = projects_new.replace('%data2%', projects_array[i]['language']);
   projects_new = projects_new.replace('%data3%', projects_array[i]['info']);
+  projects_new = projects_new.replace('%data4%', projects_array[i]['a']);
   $('.projects-section-info').append(projects_new);
 }
