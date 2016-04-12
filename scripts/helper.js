@@ -9,13 +9,14 @@ for(var i=0; i < skills_array.length; i += 1) {
   $('.skills-section-images').append(skills_new);
 }
 
-var projects = '<li><h3>%data%</h3><div class="row"><div class="col-md-3"><img src="./img/%data1%.gif" alt="project-images" class="img-responsive"></div><div class="col-md-9"><h3>Language(s): %data2%</h3><h5>%data3%</h5></div></div></li><br><hr>';
+var projects = '<li><h3>%data%</h3><div class="row"><div class="col-md-3"><a href=%data4% target="_new"><img src="./img/%data1%.gif" alt="project-images" class="img-responsive"></a></div><div class="col-md-9"><h3>Language(s): %data2%</h3><h5>%data3%</h5></div></div></li><br><hr>';
 var projects_array = [
   {
     name: 'Great Escape',
     img: 'repl' ,
     language: 'Ruby',
-    info: 'This was one of my favorite projects, even though on a user level it looks pretty basic. Great Escape is a REPL game that can be played on the command line.  It takes single user inputs, evaluates them, and returns results based on that input. The excitement in creating this project, is that the results are literally endless. You have full creative control over what your game is about and where it will take a player, which is one of the major reasons it was so much fun to make.  Additional features would be to add some graphics to go along with the game.'
+    info: 'This was one of my favorite projects, even though on a user level it looks pretty basic. Great Escape is a REPL game that can be played on the command line.  It takes single user inputs, evaluates them, and returns results based on that input. The excitement in creating this project, is that the results are literally endless. You have full creative control over what your game is about and where it will take a player, which is one of the major reasons it was so much fun to make.  Additional features would be to add some graphics to go along with the game.',
+    a: "https:github.com"
   },
   {
     name:'BrandPix',
