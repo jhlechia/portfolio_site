@@ -23,11 +23,12 @@
   padding-left: 50px;
   padding-right: 50px;
   color: white;
-  transition: all .5s ease-in-out;
 }
 
 a:link {
-  transform: scale(1.2);
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;;
 }
 
 .skills-section, .contact-section {
