@@ -20,7 +20,7 @@ var projects_array = [
   {
     name:'BrandPix',
     img:'brand',
-    language: 'Ruby, RubyonRails, HTML, CSS,',
+    language: 'Ruby, RubyonRails, HTML, CSS',
     info: 'The idea behind BrandPix stemmed from a need for companies to get user input on product/brand launches prior to spending billions of dollars on failed ideas.  It was my first opportunity to utilize the Ruby on Rails framework and was done so in a group setting.  I think of it as my Rails guinea pig, being that is the first project I created after very recently learning Rails.  Additional features would be improvement to the GUI.'
   },
   {
